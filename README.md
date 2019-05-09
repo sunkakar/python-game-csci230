@@ -3,7 +3,7 @@
 
 ## *Overview*
 
-- I programmed a text-based role playing game. The game is called “Hunt for King Rebet.” It goes along a story which is played in a 3-choice interface where one can choose from 3 choices and affect the flow of the game. An old text-based RPG inspires the game, “ZORK”, however I have programmed the game completely using GUI giving ease to the user.
+- I programmed a text-based role playing game. The game is called “Hunt for King Rebet.” It goes along a story which is played in a 3-choice interface where one can choose from 3 choices and affect the flow of the game. An old text-based RPG inspires the game, “ZORK”, however I have programmed the game completely using GUI giving ease to the u`ser.
 
 ## *Requirements*
 
